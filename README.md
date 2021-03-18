@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @w-wood
+- 👀 I’m interested in python
